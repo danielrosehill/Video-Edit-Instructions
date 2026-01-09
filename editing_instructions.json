@@ -1,0 +1,178 @@
+{
+  "source_video": "screenshare/2026-01-09_13-05-09.mp4",
+  "source_transcript": "transcripts/processed/timestamped-instructions.md",
+  "generated_at": "2026-01-09T13:59:01+02:00",
+  "instructions": [
+    {
+      "instruction_number": 1,
+      "instruction_name": "Specs Editability",
+      "description": "First friction point - specs should be editable on overview page",
+      "timestamp": "02:00",
+      "timestamp_seconds": 120,
+      "screenshot_filename": "01_specs_editability.jpg",
+      "screenshot_path": "screenshots/01_specs_editability.jpg"
+    },
+    {
+      "instruction_number": 2,
+      "instruction_name": "Add Variant Field",
+      "description": "Need new database field 'variant' (VARCHAR 255) for product variants",
+      "timestamp": "02:30",
+      "timestamp_seconds": 150,
+      "screenshot_filename": "02_add_variant_field.jpg",
+      "screenshot_path": "screenshots/02_add_variant_field.jpg"
+    },
+    {
+      "instruction_number": 3,
+      "instruction_name": "Fix Spec Save Bug",
+      "description": "\"Failed to Save specs\" error - bug needs fixing",
+      "timestamp": "03:20",
+      "timestamp_seconds": 200,
+      "screenshot_filename": "03_fix_spec_save_bug.jpg",
+      "screenshot_path": "screenshots/03_fix_spec_save_bug.jpg"
+    },
+    {
+      "instruction_number": 4,
+      "instruction_name": "AI Append Logic",
+      "description": "AI should append after blank line if human spec exists",
+      "timestamp": "08:20",
+      "timestamp_seconds": 500,
+      "screenshot_filename": "04_ai_append_logic.jpg",
+      "screenshot_path": "screenshots/04_ai_append_logic.jpg"
+    },
+    {
+      "instruction_number": 5,
+      "instruction_name": "Gallery Pill Labels",
+      "description": "Photos should have pill icons showing type (dimensions, etc.)",
+      "timestamp": "04:00",
+      "timestamp_seconds": 240,
+      "screenshot_filename": "05_gallery_pill_labels.jpg",
+      "screenshot_path": "screenshots/05_gallery_pill_labels.jpg"
+    },
+    {
+      "instruction_number": 6,
+      "instruction_name": "Reorganize Upload UI",
+      "description": "Move upload controls beneath photos card",
+      "timestamp": "05:00",
+      "timestamp_seconds": 300,
+      "screenshot_filename": "06_reorganize_upload_ui.jpg",
+      "screenshot_path": "screenshots/06_reorganize_upload_ui.jpg"
+    },
+    {
+      "instruction_number": 7,
+      "instruction_name": "Media Card Consistency",
+      "description": "Apply same UI pattern to media card",
+      "timestamp": "06:20",
+      "timestamp_seconds": 380,
+      "screenshot_filename": "07_media_card_consistency.jpg",
+      "screenshot_path": "screenshots/07_media_card_consistency.jpg"
+    },
+    {
+      "instruction_number": 8,
+      "instruction_name": "Markdown Editor",
+      "description": "Future enhancement - markdown editor for specs (lower priority)",
+      "timestamp": "07:30",
+      "timestamp_seconds": 450,
+      "screenshot_filename": "08_markdown_editor.jpg",
+      "screenshot_path": "screenshots/08_markdown_editor.jpg"
+    },
+    {
+      "instruction_number": 9,
+      "instruction_name": "Type Selector in Top Bar",
+      "description": "Add Update Type button to top action bar",
+      "timestamp": "09:20",
+      "timestamp_seconds": 560,
+      "screenshot_filename": "09_type_selector_in_top_bar.jpg",
+      "screenshot_path": "screenshots/09_type_selector_in_top_bar.jpg"
+    },
+    {
+      "instruction_number": 10,
+      "instruction_name": "Reorganize Top Bar",
+      "description": "Move Generate Specs, Suggest Storage, Giveaway to \"Other Actions\"",
+      "timestamp": "09:45",
+      "timestamp_seconds": 585,
+      "screenshot_filename": "10_reorganize_top_bar.jpg",
+      "screenshot_path": "screenshots/10_reorganize_top_bar.jpg"
+    },
+    {
+      "instruction_number": 11,
+      "instruction_name": "Delete Confirmation",
+      "description": "Add confirmation modal for note deletion",
+      "timestamp": "10:30",
+      "timestamp_seconds": 630,
+      "screenshot_filename": "11_delete_confirmation.jpg",
+      "screenshot_path": "screenshots/11_delete_confirmation.jpg"
+    },
+    {
+      "instruction_number": 12,
+      "instruction_name": "Note Edit Functionality",
+      "description": "Add edit icon and update capability for notes",
+      "timestamp": "10:45",
+      "timestamp_seconds": 645,
+      "screenshot_filename": "12_note_edit_functionality.jpg",
+      "screenshot_path": "screenshots/12_note_edit_functionality.jpg"
+    },
+    {
+      "instruction_number": 13,
+      "instruction_name": "Enhanced Selection Dropdown",
+      "description": "Show thumbnail, name, manufacturer, asset ID, location in dropdown",
+      "timestamp": "11:40",
+      "timestamp_seconds": 700,
+      "screenshot_filename": "13_enhanced_selection_dropdown.jpg",
+      "screenshot_path": "screenshots/13_enhanced_selection_dropdown.jpg"
+    },
+    {
+      "instruction_number": 14,
+      "instruction_name": "Enhanced Display Card",
+      "description": "Related item cards should show more details",
+      "timestamp": "12:00",
+      "timestamp_seconds": 720,
+      "screenshot_filename": "14_enhanced_display_card.jpg",
+      "screenshot_path": "screenshots/14_enhanced_display_card.jpg"
+    },
+    {
+      "instruction_number": 15,
+      "instruction_name": "User-Friendly Messages",
+      "description": "\"Remove relation\" -> \"Remove association\", etc.",
+      "timestamp": "12:20",
+      "timestamp_seconds": 740,
+      "screenshot_filename": "15_user_friendly_messages.jpg",
+      "screenshot_path": "screenshots/15_user_friendly_messages.jpg"
+    },
+    {
+      "instruction_number": 16,
+      "instruction_name": "Show Associated Media",
+      "description": "Display invoice/receipt under Purchase, warranty docs under Warranty",
+      "timestamp": "13:35",
+      "timestamp_seconds": 815,
+      "screenshot_filename": "16_show_associated_media.jpg",
+      "screenshot_path": "screenshots/16_show_associated_media.jpg"
+    },
+    {
+      "instruction_number": 17,
+      "instruction_name": "Purchase Info in Edit View",
+      "description": "Purchase info visible in View but not Edit mode - fix this",
+      "timestamp": "13:00",
+      "timestamp_seconds": 780,
+      "screenshot_filename": "17_purchase_info_in_edit_view.jpg",
+      "screenshot_path": "screenshots/17_purchase_info_in_edit_view.jpg"
+    },
+    {
+      "instruction_number": 18,
+      "instruction_name": "Currency Selection",
+      "description": "Future enhancement - currency selector (lower priority)",
+      "timestamp": "13:20",
+      "timestamp_seconds": 800,
+      "screenshot_filename": "18_currency_selection.jpg",
+      "screenshot_path": "screenshots/18_currency_selection.jpg"
+    },
+    {
+      "instruction_number": 19,
+      "instruction_name": "Tab Reordering",
+      "description": "New order: Overview, Specs, Media, Purchase, Related, Notes",
+      "timestamp": "13:50",
+      "timestamp_seconds": 830,
+      "screenshot_filename": "19_tab_reordering.jpg",
+      "screenshot_path": "screenshots/19_tab_reordering.jpg"
+    }
+  ]
+}
